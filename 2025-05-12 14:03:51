@@ -1,0 +1,5 @@
+2025-05-12 14:03:51,549 DEBUG - 521fc0af-84f5-4b3a-af1c-f26f495cf9de - connection attempt: host: '<pghost>', port: '5432', hostaddr: '<pghost>'
+2025-05-12 14:03:51,553 DEBUG - 521fc0af-84f5-4b3a-af1c-f26f495cf9de - connection started: <psycopg_c.pq.PGconn [STARTED] at 0x716db6897e20>
+2025-05-12 14:03:51,556 DEBUG - 521fc0af-84f5-4b3a-af1c-f26f495cf9de - connection polled: <psycopg_c.pq.PGconn [MADE] at 0x716db6897e20>
+2025-05-12 14:03:59,102 DEBUG - 521fc0af-84f5-4b3a-af1c-f26f495cf9de - connection polled: <psycopg_c.pq.PGconn [AWAITING_RESPONSE] at 0x716db6897e20>
+2025-05-12 14:04:06,623 DEBUG - 521fc0af-84f5-4b3a-af1c-f26f495cf9de - connection failed: host: '<pghost>', port: '5432', hostaddr: '<pghost>': connection timeout expired

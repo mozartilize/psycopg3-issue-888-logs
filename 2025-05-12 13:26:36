@@ -1,0 +1,13 @@
+2025-05-12 13:26:36,173 DEBUG - a9bb7c4b-496d-4bfa-aba1-dc77b3d9bfc7 - connection attempt: host: '<pghost>', port: '5432', hostaddr: '<pghost>'
+2025-05-12 13:26:36,177 DEBUG - a9bb7c4b-496d-4bfa-aba1-dc77b3d9bfc7 - connection started: <psycopg_c.pq.PGconn [STARTED] at 0x79cae65a3d30>
+2025-05-12 13:26:36,180 DEBUG - a9bb7c4b-496d-4bfa-aba1-dc77b3d9bfc7 - connection polled: <psycopg_c.pq.PGconn [MADE] at 0x79cae65a3d30>
+2025-05-12 13:26:37,280 DEBUG - a9bb7c4b-496d-4bfa-aba1-dc77b3d9bfc7 - connection polled: <psycopg_c.pq.PGconn [AWAITING_RESPONSE] at 0x79cae65a3d30>
+2025-05-12 13:26:38,168 DEBUG - a9bb7c4b-496d-4bfa-aba1-dc77b3d9bfc7 - connection polled: <psycopg_c.pq.PGconn [AWAITING_RESPONSE] at 0x79cae65a3d30>
+2025-05-12 13:26:39,638 DEBUG - a9bb7c4b-496d-4bfa-aba1-dc77b3d9bfc7 - connection polled: <psycopg_c.pq.PGconn [IDLE] (host=<pghost> user=<user> database=<dbname>) at 0x79cae65a3d30>
+2025-05-12 13:26:39,646 DEBUG - a9bb7c4b-496d-4bfa-aba1-dc77b3d9bfc7 - connection succeeded: host: '<pghost>', port: '5432', hostaddr: '<pghost>'
+2025-05-12 13:26:39,894 DEBUG - a9bb7c4b-496d-4bfa-aba1-dc77b3d9bfc7 - connection attempt: host: '<pghost>', port: '5432', hostaddr: '<pghost>'
+2025-05-12 13:26:39,898 DEBUG - a9bb7c4b-496d-4bfa-aba1-dc77b3d9bfc7 - connection started: <psycopg_c.pq.PGconn [STARTED] at 0x79cae65f0cc0>
+2025-05-12 13:26:39,902 DEBUG - a9bb7c4b-496d-4bfa-aba1-dc77b3d9bfc7 - connection polled: <psycopg_c.pq.PGconn [MADE] at 0x79cae65f0cc0>
+2025-05-12 13:26:41,720 DEBUG - a9bb7c4b-496d-4bfa-aba1-dc77b3d9bfc7 - connection polled: <psycopg_c.pq.PGconn [AWAITING_RESPONSE] at 0x79cae65f0cc0>
+2025-05-12 13:26:44,799 DEBUG - a9bb7c4b-496d-4bfa-aba1-dc77b3d9bfc7 - connection polled: <psycopg_c.pq.PGconn [AWAITING_RESPONSE] at 0x79cae65f0cc0>
+2025-05-12 13:26:54,928 DEBUG - a9bb7c4b-496d-4bfa-aba1-dc77b3d9bfc7 - connection failed: host: '<pghost>', port: '5432', hostaddr: '<pghost>': connection timeout expired

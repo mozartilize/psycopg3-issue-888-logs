@@ -1,0 +1,8 @@
+2025-05-12 11:53:40,440 DEBUG - 8458d8e1-caf9-4830-af01-f6b6dfae6c12 - connection attempt: host: '<pghost>', port: '5432', hostaddr: '<pghost>'
+2025-05-12 11:53:40,443 DEBUG - 8458d8e1-caf9-4830-af01-f6b6dfae6c12 - connection started: <psycopg_c.pq.PGconn [STARTED] at 0x72e7c4403ce0>
+2025-05-12 11:53:40,446 DEBUG - 8458d8e1-caf9-4830-af01-f6b6dfae6c12 - connection polled: <psycopg_c.pq.PGconn [MADE] at 0x72e7c4403ce0>
+2025-05-12 11:53:41,817 DEBUG - 8458d8e1-caf9-4830-af01-f6b6dfae6c12 - connection polled: <psycopg_c.pq.PGconn [SSL_STARTUP] at 0x72e7c4403ce0>
+2025-05-12 11:53:44,173 DEBUG - 8458d8e1-caf9-4830-af01-f6b6dfae6c12 - connection polled: <psycopg_c.pq.PGconn [SSL_STARTUP] at 0x72e7c4403ce0>
+2025-05-12 11:53:47,726 DEBUG - 8458d8e1-caf9-4830-af01-f6b6dfae6c12 - connection polled: <psycopg_c.pq.PGconn [SSL_STARTUP] at 0x72e7c4403ce0>
+2025-05-12 11:53:52,363 DEBUG - 8458d8e1-caf9-4830-af01-f6b6dfae6c12 - connection polled: <psycopg_c.pq.PGconn [SSL_STARTUP] at 0x72e7c4403ce0>
+2025-05-12 11:53:55,476 DEBUG - 8458d8e1-caf9-4830-af01-f6b6dfae6c12 - connection failed: host: '<pghost>', port: '5432', hostaddr: '<pghost>': connection timeout expired

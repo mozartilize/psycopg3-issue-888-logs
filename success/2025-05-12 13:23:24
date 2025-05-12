@@ -1,0 +1,14 @@
+2025-05-12 13:23:24,366 DEBUG - 551c1307-ab37-46c4-b1cb-051fec7bd435 - connection attempt: host: '<pghost>', port: '5432', hostaddr: '<pghost>'
+2025-05-12 13:23:24,370 DEBUG - 551c1307-ab37-46c4-b1cb-051fec7bd435 - connection started: <psycopg_c.pq.PGconn [STARTED] at 0x7c6c3c9a7dd0>
+2025-05-12 13:23:24,375 DEBUG - 551c1307-ab37-46c4-b1cb-051fec7bd435 - connection polled: <psycopg_c.pq.PGconn [MADE] at 0x7c6c3c9a7dd0>
+2025-05-12 13:23:24,713 DEBUG - 551c1307-ab37-46c4-b1cb-051fec7bd435 - connection polled: <psycopg_c.pq.PGconn [AWAITING_RESPONSE] at 0x7c6c3c9a7dd0>
+2025-05-12 13:23:24,988 DEBUG - 551c1307-ab37-46c4-b1cb-051fec7bd435 - connection polled: <psycopg_c.pq.PGconn [AWAITING_RESPONSE] at 0x7c6c3c9a7dd0>
+2025-05-12 13:23:25,260 DEBUG - 551c1307-ab37-46c4-b1cb-051fec7bd435 - connection polled: <psycopg_c.pq.PGconn [IDLE] (host=<pghost> user=<user> database=<dbname>) at 0x7c6c3c9a7dd0>
+2025-05-12 13:23:25,265 DEBUG - 551c1307-ab37-46c4-b1cb-051fec7bd435 - connection succeeded: host: '<pghost>', port: '5432', hostaddr: '<pghost>'
+2025-05-12 13:23:25,551 DEBUG - 551c1307-ab37-46c4-b1cb-051fec7bd435 - connection attempt: host: '<pghost>', port: '5432', hostaddr: '<pghost>'
+2025-05-12 13:23:25,555 DEBUG - 551c1307-ab37-46c4-b1cb-051fec7bd435 - connection started: <psycopg_c.pq.PGconn [STARTED] at 0x7c6c3c9a7fb0>
+2025-05-12 13:23:25,558 DEBUG - 551c1307-ab37-46c4-b1cb-051fec7bd435 - connection polled: <psycopg_c.pq.PGconn [MADE] at 0x7c6c3c9a7fb0>
+2025-05-12 13:23:25,828 DEBUG - 551c1307-ab37-46c4-b1cb-051fec7bd435 - connection polled: <psycopg_c.pq.PGconn [AWAITING_RESPONSE] at 0x7c6c3c9a7fb0>
+2025-05-12 13:23:26,104 DEBUG - 551c1307-ab37-46c4-b1cb-051fec7bd435 - connection polled: <psycopg_c.pq.PGconn [AWAITING_RESPONSE] at 0x7c6c3c9a7fb0>
+2025-05-12 13:23:26,378 DEBUG - 551c1307-ab37-46c4-b1cb-051fec7bd435 - connection polled: <psycopg_c.pq.PGconn [IDLE] (host=<pghost> user=<user> database=<dbname>) at 0x7c6c3c9a7fb0>
+2025-05-12 13:23:26,549 DEBUG - 551c1307-ab37-46c4-b1cb-051fec7bd435 - connection succeeded: host: '<pghost>', port: '5432', hostaddr: '<pghost>'
