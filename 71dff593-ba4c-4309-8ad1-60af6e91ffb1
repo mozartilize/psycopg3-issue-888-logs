@@ -1,0 +1,5 @@
+71dff593-ba4c-4309-8ad1-60af6e91ffb1
+2025-05-12 03:24:43,843 DEBUG - 71dff593-ba4c-4309-8ad1-60af6e91ffb1 - connection attempt: host: '<pghost>', port: '5432', hostaddr: '<pghost>'
+2025-05-12 03:24:43,847 DEBUG - 71dff593-ba4c-4309-8ad1-60af6e91ffb1 - connection started: <psycopg_c.pq.PGconn [STARTED] at 0x7c60d831fdd0>
+2025-05-12 03:24:43,851 DEBUG - 71dff593-ba4c-4309-8ad1-60af6e91ffb1 - connection polled: <psycopg_c.pq.PGconn [MADE] at 0x7c60d831fdd0>
+2025-05-12 03:24:58,891 DEBUG - 71dff593-ba4c-4309-8ad1-60af6e91ffb1 - connection failed: host: '<pghost>', port: '5432', hostaddr: '<pghost>': connection timeout expired

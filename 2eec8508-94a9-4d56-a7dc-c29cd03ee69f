@@ -1,0 +1,12 @@
+2eec8508-94a9-4d56-a7dc-c29cd03ee69f
+2025-05-12 10:35:10,793 DEBUG - 2eec8508-94a9-4d56-a7dc-c29cd03ee69f - connection attempt: host: '<pghost>', port: '5432', hostaddr: '<pghost>'
+2025-05-12 10:35:10,797 DEBUG - 2eec8508-94a9-4d56-a7dc-c29cd03ee69f - connection started: <psycopg_c.pq.PGconn [STARTED] at 0x75fc4bfc3d80>
+2025-05-12 10:35:10,800 DEBUG - 2eec8508-94a9-4d56-a7dc-c29cd03ee69f - connection polled: <psycopg_c.pq.PGconn [MADE] at 0x75fc4bfc3d80>
+2025-05-12 10:35:13,693 DEBUG - 2eec8508-94a9-4d56-a7dc-c29cd03ee69f - connection polled: <psycopg_c.pq.PGconn [SSL_STARTUP] at 0x75fc4bfc3d80>
+2025-05-12 10:35:16,260 DEBUG - 2eec8508-94a9-4d56-a7dc-c29cd03ee69f - connection polled: <psycopg_c.pq.PGconn [SSL_STARTUP] at 0x75fc4bfc3d80>
+2025-05-12 10:35:18,816 DEBUG - 2eec8508-94a9-4d56-a7dc-c29cd03ee69f - connection polled: <psycopg_c.pq.PGconn [SSL_STARTUP] at 0x75fc4bfc3d80>
+2025-05-12 10:35:21,539 DEBUG - 2eec8508-94a9-4d56-a7dc-c29cd03ee69f - connection polled: <psycopg_c.pq.PGconn [SSL_STARTUP] at 0x75fc4bfc3d80>
+2025-05-12 10:35:21,550 DEBUG - 2eec8508-94a9-4d56-a7dc-c29cd03ee69f - connection polled: <psycopg_c.pq.PGconn [SSL_STARTUP] at 0x75fc4bfc3d80>
+2025-05-12 10:35:24,067 DEBUG - 2eec8508-94a9-4d56-a7dc-c29cd03ee69f - connection polled: <psycopg_c.pq.PGconn [MADE] at 0x75fc4bfc3d80>
+2025-05-12 10:35:24,072 DEBUG - 2eec8508-94a9-4d56-a7dc-c29cd03ee69f - connection polled: <psycopg_c.pq.PGconn [AWAITING_RESPONSE] at 0x75fc4bfc3d80>
+2025-05-12 10:35:25,879 DEBUG - 2eec8508-94a9-4d56-a7dc-c29cd03ee69f - connection failed: host: '<pghost>', port: '5432', hostaddr: '<pghost>': connection timeout expired

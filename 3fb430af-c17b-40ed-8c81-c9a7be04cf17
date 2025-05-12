@@ -1,0 +1,6 @@
+3fb430af-c17b-40ed-8c81-c9a7be04cf17
+2025-05-12 02:24:34,347 DEBUG - 3fb430af-c17b-40ed-8c81-c9a7be04cf17 - connection attempt: host: '<pghost>', port: '5432', hostaddr: '<pghost>'
+2025-05-12 02:24:34,351 DEBUG - 3fb430af-c17b-40ed-8c81-c9a7be04cf17 - connection started: <psycopg_c.pq.PGconn [STARTED] at 0x7a4c084f7dd0>
+2025-05-12 02:24:34,354 DEBUG - 3fb430af-c17b-40ed-8c81-c9a7be04cf17 - connection polled: <psycopg_c.pq.PGconn [MADE] at 0x7a4c084f7dd0>
+2025-05-12 02:24:49,180 DEBUG - 3fb430af-c17b-40ed-8c81-c9a7be04cf17 - connection polled: <psycopg_c.pq.PGconn [SSL_STARTUP] at 0x7a4c084f7dd0>
+2025-05-12 02:24:49,389 DEBUG - 3fb430af-c17b-40ed-8c81-c9a7be04cf17 - connection failed: host: '<pghost>', port: '5432', hostaddr: '<pghost>': connection timeout expired
